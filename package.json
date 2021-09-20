@@ -1,0 +1,13 @@
+{
+  "name": "typeNodeJs",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "ts-node src/index.js",
+    "build": "tsc -w"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
